@@ -1,5 +1,25 @@
 Project Log Assignments
 
+Module Four Project Log – Team Reflection
+
+Throughout the QA and testing phase of our Alpha-stage project, the team maintained a strong and consistent approach to quality assurance. Testing was an integral part of our development process, with regular evaluations occurring as features were implemented. This continuous testing helped ensure that issues were detected early and resolved efficiently.
+
+Bug identification and correction were handled collaboratively and effectively. Bugs were caught through frequent playtesting and cross-checking against our test cases. All identified issues were logged and discussed through our team communication channels, and fixes were applied in a timely manner. We utilized both GitHub and a shared Google Sheets-based test plan and QA tracker, which allowed the team to document test cases, mark pass/fail results, and track bugs and updates in a transparent and accessible way.
+
+Our most effective communication tool has been Discord, specifically our Green Team text and voice channels. While Slack was considered initially, it was eventually dropped in favor of Discord, which provided a more immediate and flexible environment for collaboration. Voice chats enabled quick discussions during testing, and text channels kept a running log of decisions, questions, and outcomes.
+
+The shared Google Sheets documents served as our centralized QA plan and traceability matrix, enabling each team member to update and review testing status as development progressed. This setup allowed for real-time tracking of testing outcomes and changes to the design, while GitHub supported version control and issue tracking for development and testing tasks.
+
+Reflecting on our process, one area for future improvement would be to expand our use of GitHub Issues to formalize bug tracking and task assignments further. While our current workflow is effective, a structured ticketing system would help scale our QA efforts in more complex stages of the project.
+
+Our initial analysis of the game design document played a critical role in shaping our QA and testing strategies. The entire team was involved in reviewing the document, identifying key mechanics, and determining which components would require early testing focus. This shared understanding helped align our QA efforts with the game’s functional goals and design intentions.
+
+In summary, the team’s QA and testing efforts have gone well. Testing was continuous, bugs were identified and fixed efficiently, and our use of Discord, Google Sheets, and GitHub provided a strong foundation for collaboration and tracking. Moving forward, we will look to refine our tracking methods further, but our current strategy has proven effective for Alpha development.
+
+We are well on our way to meeting all deliverables required and will exceed all requirements!
+WTG Green Team!
+
+
 Module Three Project Log – Team Development: QA and Testing Plan
 
 Project Title: BioSynth: Inner War
