@@ -1,4 +1,5 @@
 Project Log Assignments
+___________________________________________
 
 Module Four Project Log – Team Reflection
 
@@ -19,6 +20,8 @@ In summary, the team’s QA and testing efforts have gone well. Testing was cont
 We are well on our way to meeting all deliverables required and will exceed all requirements!
 WTG Green Team!
 
+
+____________________________________________________________________
 
 Module Three Project Log – Team Development: QA and Testing Plan
 
