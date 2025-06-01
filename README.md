@@ -1,7 +1,7 @@
 Project Log Assignments
 ___________________________________________
 
-Module Four Project Log – Team Reflection
+- Module Four Project Log – Team Reflection
 
 Throughout the QA and testing phase of our Alpha-stage project, the team maintained a strong and consistent approach to quality assurance. Testing was an integral part of our development process, with regular evaluations occurring as features were implemented. This continuous testing helped ensure that issues were detected early and resolved efficiently.
 
@@ -23,7 +23,7 @@ WTG Green Team!
 
 ____________________________________________________________________
 
-Module Three Project Log – Team Development: QA and Testing Plan
+- Module Three Project Log – Team Development: QA and Testing Plan
 
 Project Title: BioSynth: Inner War
 
@@ -85,140 +85,140 @@ This QA plan will help ensure the final game is functional, engaging, and stable
 
 ______________________________________________
 
-Module Two Team Project Plan.
+- Module Two Team Project Plan.
 
 Project BioSynth: Team Development Plan
 
-Scenario Overview
+- Scenario Overview:
 
-•	Title: BioSynth: Inner War
+o	Title: BioSynth: Inner War
 
-•	Setting: You are a highly advanced nanobot inserted into a futuristic synthetic organism inside a cyborg-human hybrid.
+o	Setting: You are a highly advanced nanobot inserted into a futuristic synthetic organism inside a cyborg-human hybrid.
 
-•	Goal: Disable 20 rogue nanoviruses threatening to overtake the biomechanical host from within.
+o	Goal: Disable 20 rogue nanoviruses threatening to overtake the biomechanical host from within.
 
-•	Theme: Cyber-biological — featuring glowing wire networks, semi-organic mechanical corridors, red muscle fibers fused with circuit boards, and a digital/organic atmosphere.
+o	Theme: Cyber-biological — featuring glowing wire networks, semi-organic mechanical corridors, red muscle fibers fused with circuit boards, and a digital/organic atmosphere.
 
-Key Game Elements
+- Key Game Elements
 
-•	Magnetic Lifts: Horizontal and vertical hover elevators for navigating biomechanical corridors.
+o	Magnetic Lifts: Horizontal and vertical hover elevators for navigating biomechanical corridors.
 
-•	EMP Bomb Pickups: Collectible devices that temporarily disable virus shields.
+o	EMP Bomb Pickups: Collectible devices that temporarily disable virus shields.
 
-•	Virus Behavior: Rogue nanoviruses replicate via data corruption, not cellular splitting.
+o	Virus Behavior: Rogue nanoviruses replicate via data corruption, not cellular splitting.
 
-•	Triangulation HUD: Signal-tracking HUD showing virus locations by visual pings and signal strength.
+o	Triangulation HUD: Signal-tracking HUD showing virus locations by visual pings and signal strength.
 
-•	Futuristic Weapon Pickups
+o	Futuristic Weapon Pickups
 
 ________________________________________
-Development Timeline
+- Development Timeline
 
 Week 2: Planning & Scenario Definition
 
-•	Define game scenario, core gameplay loop, and level goals
+o	Define game scenario, core gameplay loop, and level goals
 
-•	Confirm team roles and responsibilities
+o	Confirm team roles and responsibilities
 
-•	Choose key game elements and features
+o	Choose key game elements and features
 
-•	Begin Design Document and Traceability Matrix in GitHub
+o	Begin Design Document and Traceability Matrix in GitHub
 
-•	Plan level layout and overall visual style
-
-________________________________________
-Weeks 3–4: Pre-Alpha Milestone
-
-•	Implement player movement and magnetic lift mechanics
-
-•	Create blockout of level corridor with placeholder assets
-
-•	Develop initial virus AI (non-replicating)
-
-•	Begin basic HUD mockup development
-
-•	Implement EMP pickup placeholder functionality
+o	Plan-level layout and overall visual style
 
 ________________________________________
-Week 5: Alpha Milestone
+- Weeks 3–4: Pre-Alpha Milestone
 
-•	Develop triangulation HUD system prototype
+o	Implement player movement and magnetic lift mechanics
 
-•	Integrate EMP pickup and virus shield interaction
+o	Create blockout of level corridor with placeholder assets
 
-•	Script early virus replication mechanics
+o	Develop initial virus AI (non-replicating)
 
-•	Build first complete playable level zone with rough visuals and lighting
+o	Begin basic HUD mockup development
 
-•	Actively update Traceability Matrix with progress
-
-•	Conduct internal playtesting and gather feedback
+o	Implement EMP pickup placeholder functionality
 
 ________________________________________
-Week 6: Beta Milestone
+- Week 5: Alpha Milestone
 
-•	Finalize virus types and replication system
+o	Develop triangulation HUD system prototype
 
-•	Complete level environmental art, lighting, and sound
+o	Integrate EMP pickup and virus shield interaction
 
-•	Polish triangulation HUD and gameplay feedback
+o	Script early virus replication mechanics
 
-•	Refine EMP and virus interaction mechanics
+o	Build first complete playable level zone with rough visuals and lighting
 
-•	Prepare game loop for full playthrough
+o	Actively update Traceability Matrix with progress
 
-•	Continue bug fixing and optimization
-
-________________________________________
-Week 7: Final Polish & Submission
-
-•	Add menus, intro sequences, and game over logic
-
-•	Finalize sound effects and ambient audio
-
-•	Perform final visual polish and bug fixes
-
-•	Complete all testing and update Test Plan in Excel
-
-•	Submit final build, documentation, and presentation materials
+o	Conduct internal playtesting and gather feedback
 
 ________________________________________
-Development Milestone Goals
+- Week 6: Beta Milestone
 
-Alpha Goals
+o	Finalize virus types and replication system
 
-•	Fully functional player movement and magnetic lifts
+o	Complete level environmental art, lighting, and sound
 
-•	Placeholder corridor level design complete
+o	Polish triangulation HUD and gameplay feedback
 
-•	Basic virus AI and EMP pickups implemented
+o	Refine EMP and virus interaction mechanics
 
-•	Triangulation HUD prototype operational
+o	Prepare game loop for full playthrough
 
-•	Traceability Matrix maintained and up to date
-
-Beta Goals
-
-•	Virus replication and shield/EMP interactions fully implemented
-
-•	Complete playable level with environment design and lighting
-
-•	Polished HUD, audio, and visual feedback
-
-•	Game loop fully playable from start to finish
-
-•	Testing fully documented in Excel Test Plan
+o	Continue bug fixing and optimization
 
 ________________________________________
-Communication Plan
+- Week 7: Final Polish & Submission
 
-•	Primary Tool: Discord
+o	Add menus, intro sequences, and game over logic
 
-•	Meeting Frequency: Twice a week
+o	Finalize sound effects and ambient audio
 
-•	Preferred Days: Monday, Tuesday, Thursday, or Saturday (weekly schedule confirmed by team availability)
+o	Perform final visual polish and bug fixes
 
-•	Discord Channels:
+o	Complete all testing and update Test Plan in Excel
+
+o	Submit final build, documentation, and presentation materials
+
+________________________________________
+- Development Milestone Goals
+
+* Alpha Goals
+
+o	Fully functional player movement and magnetic lifts
+
+o	Placeholder corridor level design complete
+
+o	Basic virus AI and EMP pickups implemented
+
+o	Triangulation HUD prototype operational
+
+o	Traceability Matrix maintained and up to date
+
+* Beta Goals
+
+o	Virus replication and shield/EMP interactions fully implemented
+
+o	Complete playable level with environment design and lighting
+
+o	Polished HUD, audio, and visual feedback
+
+o	Game loop fully playable from start to finish
+
+o	Testing fully documented in UE5 Test Plan
+
+________________________________________
+- Communication Plan
+
+o	Primary Tool: Discord
+
+o	Meeting Frequency: Twice a week or when a member is ready available
+
+o	Preferred Days: Monday, Tuesday, Thursday, or Saturday or based on teammate availability (weekly schedule confirmed by team availability)
+
+o	Discord Channels: Green Team
 
 o	General discussion
 
@@ -228,44 +228,42 @@ o	Bug reports
 
 o	Asset sharing
 
-________________________________________
-Task Management & Tracking
+o Model cohesion and preference
 
-•	GitHub:
+________________________________________
+- Task Management & Tracking
+
+o	GitHub: GAM305-GreenTeam
 
 o	Repository for code, documentation, and version control
 
 o	Design Document and Traceability Matrix collaboratively maintained
 
-•	Microsoft Excel:
+o	Microsoft Excel: not needed
 
 o	Used for Traceability Matrix and Test Plan
 
 o	Shared via GitHub or OneDrive for real-time collaboration
 
-o	Traceability Matrix Tracks:
+o	Traceability Matrix Tracks: Primarily handled in Discord
 
-	Task name, description, assignee, due date, status, notes
+*	Task name, description, assignee, due date, status, notes
 
-o	Test Plan Tracks:
+o	Test Plan Tracks: Primarily handled in Discord
 
-	Features, test steps, expected and actual results, pass/fail, tester info
+*	Features, test steps, expected and actual results, pass/fail, tester info
 
-•	Microsoft Word:
+o	Microsoft Word: Kenan T. Avila Documentation
 
 o	Design documentation, planning notes, and final deliverables stored in GitHub
 
 ________________________________________
 Team Members & Roles
 
-•	Justin: Programming & Systems Development
+o	Justin: Programming & Systems Development
 
-•	Andrew: Level Design, Mechanics, and Gameplay Tuning
+o	Andrew: Level Design, Mechanics, and Gameplay Tuning
 
-•	Douglas: Pending inclusion
+o	Douglas: Pending inclusion (Absent)
 
-•	Keenan: Pending inclusion
-
-Roles to be updated as the team grows and project needs evolve.
-
-
+o	Kenan: Model Designer
