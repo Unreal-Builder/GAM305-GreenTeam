@@ -1,6 +1,34 @@
 Project Log Assignments
 ___________________________________________
 
+- Module Five Project Log - Team Reflection
+In evaluating the QA and testing plan we created during Module Three, our team has made steady progress, despite early challenges with inactive team members. From a technical and programming standpoint, the plan has provided a solid foundation for structuring our Alpha and Beta development cycles, ensuring testing was integrated throughout implementation.
+
+What Went Well:
+The use of a shared Microsoft Excel test plan and traceability matrix, along with GitHub version control, proved highly effective in organizing and managing both development and QA tasks. Andrew and I have taken on most of the active responsibilities due to lack of consistent participation from the rest of the team, and these tools allowed us to stay aligned and efficient. The Excel sheets served not only to document test cases and bugs but also acted as a development tracker for upcoming and in-progress features.
+Frequent playtests and targeted debugging helped us refine core gameplay systems, including the chargeable rifle mechanic, regenerating energy HUD, and conditional damage states like overcharge backlash. We also successfully responded to Alpha-stage feedback by implementing a full gameplay loop: players now clear virus entities to activate a gravity elevator, which in turn triggers a cinematic revealing the new area and leads to a final boss encounter. The addition of a main menu, win/loss screens, and energy-based shooting feedback helped shift the experience from a sandbox demo to a fully structured game.
+
+What Went Wrong:
+While our core systems and QA tracking structure remained reliable, we struggled initially with a lack of defined task ownership, mainly due to missing team members. This led to delays in updating visual assets and environment polish, which Andrew and I have since absorbed into our own workloads. Our reliance on Discord for quick communication was strong, but we could have used GitHub Issues more rigorously to formalize task assignment and bug resolution steps. This would have saved time in some coordination and bug tracebacks.
+
+Integration of Previous Evaluations:
+Previous evaluation feedback directly shaped our priorities for the Beta stage. For example, the suggestion to move beyond placeholders and define game objectives was implemented with our updated weapon system, mission progression, and final boss sequence. The HUD now provides visual and gameplay cues (like energy consumption and overcharge penalties) that give the player feedback beyond visual placeholders.
+
+Improvements for Collaboration:
+To improve collaboration moving forward, we plan to continue using our shared Microsoft Word-based traceability matrix and Excel project log to track all remaining development items, such as polish passes, final bug fixes, and implementation of cinematics. Instead of shifting to GitHub Issues, we found that our documentation-driven approach better supports our current workflow and team availability. The traceability matrix allows us to assign ownership directly within the document, while maintaining visibility across all planned tasks.
+In addition, we are incorporating new narrative and cinematic sequences this week to enhance storytelling and feedback during gameplay. These include scenes for death, game over, startup, and respawn. A specific example is when the player activates the hidden gravity elevator, a cutscene visually reveals the opened path, guiding progression and adding polish to the experience. These enhancements support both immersion and gameplay clarity.
+
+Tools and Techniques Found Less Helpful:
+Slack was initially proposed as a communication tool, but it has proven unnecessary. Our entire team shifted to Discord for text, voice, and file sharing, which better suited our needs. Additionally, while the test plan in Sheets has been valuable, some formatting limitations (like tracking historical changes) made it less ideal for long-term regression tracking compared to a GitHub-based issue log.
+
+Beta Development Status:
+At this stage, our Beta build includes all core gameplay systems: movement, combat mechanics, clear win/loss states, interactive elements (pickups, objectives), functional HUD, and a playable boss fight. Our remaining goals for the Final Release include cinematic sequences, polish passes on environment and audio, improved enemy animations, and final asset swaps. We are on track to meet our final development deadline, provided we maintain our current production pace.
+
+Conclusion:
+In summary, while the project faced early team challenges, our technical and QA planning allowed us to adapt and continue forward. With a structured system and open communication, we are confident in completing a polished final version of the game.
+
+___________________________________________
+
 - Module Four Project Log – Team Reflection
 
 Throughout the QA and testing phase of our Alpha-stage project, the team maintained a strong and consistent approach to quality assurance. Testing was an integral part of our development process, with regular evaluations occurring as features were implemented. This continuous testing helped ensure that issues were detected early and resolved efficiently.
