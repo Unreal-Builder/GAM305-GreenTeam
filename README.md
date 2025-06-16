@@ -1,6 +1,47 @@
 Project Log Assignments
 
 ____________________________________________
+-Module Six Project Log - Team Reflection
+
+Evaluation of the Module Three Plan from an Artist’s Perspective
+From an artistic standpoint, the original plan created in Module Three served as a strong foundation for developing our game’s visual identity and narrative structure. It established the intended tone, style, and core feedback systems that we would implement and refine over time. Though we encountered some challenges along the way, the plan helped guide the evolution of the game’s HUD, weapon effects, cinematics, and level transitions. As the project progressed, we adapted our visual goals to meet scope, focusing on strong execution of essential features.
+What Went Well in Relation to the Last Stage Evaluation
+Several artistic elements progressed smoothly in this stage, building directly on prior feedback and Alpha milestones:
+The chargeable rifle system now includes responsive energy visuals and overcharge warnings, supporting both gameplay clarity and visual immersion.
+Our HUD design was completed and functions well, providing consistent feedback for energy, health, and gameplay states.
+We implemented cinematic sequences, such as the reveal of the gravity elevator and boss introduction, which gave the game a strong narrative flow and helped bridge player progression with visual storytelling.
+The menus, win/loss states, and respawn visuals all support a unified tone and reinforce a complete game loop rather than a prototype.
+These improvements elevated the final build into a visually coherent and immersive experience, a significant leap from early playtest builds.
+
+
+What Went Wrong or Fell Short in the Final Stage
+Despite our best efforts, some artistic goals had to be deprioritized due to time constraints and scope creep:
+We initially planned to feature flowing blood palettes throughout the environment to reinforce mood and atmosphere. These were ultimately cut to focus on higher-priority polish and bug resolution.
+The boss battle was completed and functional, but we were unable to implement additional intended features such as extra attack patterns and the ability for the mother virus to spawn smaller virus enemies that could be defeated to lower the boss’s health.
+Finally, while a clean win screen is present, we were unable to complete a cinematic outro that would have smoothly transitioned from the final boss defeat to a narrative conclusion.
+These features were all within reach, and with even one additional development week, we likely could have completed them without compromise to quality elsewhere.
+How Previous Evaluations Were Integrated
+Feedback from the Alpha and previous evaluations was taken seriously and had a direct influence on our development priorities:
+Placeholder HUD and vague objectives were replaced with intuitive visual indicators, overcharge feedback, and a guided progression system.
+Prior notes calling for a stronger game identity inspired us to implement cinematic cutscenes, polished menus, and atmospheric transitions that provide both immersion and storytelling.
+We focused heavily on responsive visual feedback, ensuring that player actions, such as shooting, charging, or progressing through objectives, are supported by strong visual cues.
+This continuous integration of feedback helped shift our build from a sandbox-like prototype to a narrative-driven and visually complete game.
+
+Improvements for Future Collaboration and Process
+Both Andrew and I assumed the bulk of the final stage workload due to low engagement from some team members. We adapted well and maintained steady progress, but clearer task ownership earlier in the process would have reduced pressure and improved consistency across disciplines.
+To improve collaboration in future projects, we would:
+Adopt a task board system (e.g., Trello or GitHub Issues) early in the project to formalize task delegation and track asset dependencies more clearly.
+Maintain our Excel-based traceability matrix, which was effective for broad visibility and progress tracking, but supplement it with version-controlled tools for visual changes and asset integration.
+This hybrid approach would allow greater flexibility while ensuring accountability and historical tracking of visual work.
+Tools and Techniques That Were Less Helpful
+Not all tools proposed were effective in our workflow:
+Slack was introduced early but quickly dropped in favor of Discord, which provided a faster, more responsive communication platform for text, voice, and file sharing.
+While our Excel test plan and tracker were crucial, they lacked the functionality for tracking visual changes over time or coordinating concurrent work on visual assets. A Git-based solution would be more scalable in future large-team projects.
+Conclusion
+In conclusion, our final release demonstrates significant artistic growth, successful adaptation to constraints, and the ability to deliver a high-quality, visually complete game. While a few features, like expanded boss mechanics, environmental polish elements, and a final outro cinematic, were scoped out due to time, we are proud to say that all core artistic and design goals were met, and several additional features were implemented beyond the initial plan.
+Given just one more week, we feel confident we could have layered in even more polish and narrative closure. That said, our work reflects a strong, well-rounded project built on feedback, collaboration, and creative problem-solving. As a team, particularly with Andrew and myself leading the final development, we are proud of the game we delivered.
+
+____________________________________________
 
 -Module Five Project Log - Team Reflection
 
